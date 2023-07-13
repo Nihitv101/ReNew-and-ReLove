@@ -6,6 +6,12 @@ Renew and ReLove is a marketplace application built using the MERN stack. It all
 Buyers can place bids on the listed products, and users have the option to communicate with the admin for any queries or assistance. The admin has the authority to approve or reject the listed products and can manage user accounts, including blocking or unblocking users. The admin also receives notifications whenever a new bid is placed.
 
 Renew and ReLove aims to provide a seamless marketplace experience, encouraging the reuse and resale of refurbished items. The MERN stack ensures a robust and scalable application, while the integration of Multer and Cloudinary simplifies image handling and storage.
+
+## Important
+
+Before running the applciatoin clear your localstorage with any key named "token".
+
+
 ## Screenshots
 
 ![screenshot (4)](https://github.com/Nihitv101/ReNew-and-ReLove/assets/122816401/262ecc33-4fc4-4775-bfbb-a9c1708747b8)
@@ -85,4 +91,6 @@ Start the server
 ```bash
   npm run start
 ```
+
+
 
